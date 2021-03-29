@@ -1,2 +1,9 @@
-# the-beatles
-Site responsivo do The Beatles. 2° Projeto para o Portfólio Dev. 
+# The Beatles
+
+## O Que se trata? 
+Trata-se do segundo projeto para o Portfólio Dev 
+
+##Assuntos Abordados:
+1. Html
+2. CSS
+3. JavaScript
