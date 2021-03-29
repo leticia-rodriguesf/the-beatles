@@ -1,4 +1,4 @@
-# The Beatles
+# The Beatles 🌠
 
 ## O Que se trata? 
 Trata-se do segundo projeto para o Portfólio Dev 
